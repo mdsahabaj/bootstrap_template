@@ -1,0 +1,25 @@
+systeminfo -to chk information about system
+vol - chk which drive you are working
+ver - chk your version
+date or date /t - to chk current date
+time or time /t - to chk time
+drive name: - to change drive (ex- d:)
+dir - to chk all inside folder
+cd foldername - change directory (basically enter that folder)
+cd.. -back one folder
+cd../.. - for 2 folder back
+mkdir foldername- create new folder (not file)
+type nul > filename.extension - create new file (bappy.txt)
+ren or rename oldname newname -rename a file
+notepad filename - to write something on that file
+type filename -to chk content
+copy oldfilename newfilename - for copy
+del or erase filename -for delete
+rmdir foldername - for delete folder 
+move selectfilename targetfile - for move
+cls - clear screen
+ping google.com -chk proper netwok working
+ipconfig /all -to chk all address
+
+
+
